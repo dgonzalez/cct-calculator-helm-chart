@@ -1,0 +1,4 @@
+docker:
+  image: dagonzadub/cct-calculator
+  tag: latest
+replicas: 2
